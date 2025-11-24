@@ -15,4 +15,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Unit Testing](https://img.shields.io/badge/Testing-Unit%20Tests-purple?style=for-the-badge&logoColor=white)
 ![Freezed](https://img.shields.io/badge/Code%20Gen-Freezed-blue?style=for-the-badge&logoColor=white)
- or something wrong in here  
